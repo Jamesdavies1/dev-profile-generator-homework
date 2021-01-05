@@ -16,7 +16,7 @@
     "url": "https://github.com/Jamesdavies1/dev-profile-generator-homework/issues"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.0.0",
     "electron": "^5.0.3",
     "electron-html-to": "^2.6.0",
